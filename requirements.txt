@@ -6,4 +6,15 @@ scikit-learn
 xgboost
 nltk
 torch
+tensorflow
+transformers
 streamlit
+langchain
+langchain_community
+langchain_groq
+faiss-cpu
+sentence_transformers
+missingno
+tf-keras
+autokeras
+
